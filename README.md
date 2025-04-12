@@ -88,7 +88,7 @@
 
 ###
 
-<img align="right" height="150" src="https://adcy.io/wp-content/uploads/2020/04/anti-hacking.gif"  />
+
 
 ###
 
