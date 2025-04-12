@@ -1,7 +1,10 @@
+
+## About Me
+
 <h3 align="left">Hi there! 👋 I'm Mohammad Saad 🚀<br>💻 I'm a Full Stack Developer who loves turning 💡ideas into reality with code.<br>🎮 I build games, 📱 apps, 🤖 dabble in machine learning, and craft sleek web experiences 🌐.<br>🔥 I’m also besties with Firebase – it's my backend buddy!<br><br>💬 Always open to collaboration, learning, and building cool stuff together!<br>Let’s connect and create magic with code ✨🛠️</h3>
 
 ###
-
+## GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohammadsaad006&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=mohammadsaad006&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
@@ -9,7 +12,7 @@
 </div>
 
 ###
-
+## Tech Stack
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -89,7 +92,7 @@
 <img align="right" height="150" src="https://adcy.io/wp-content/uploads/2020/04/anti-hacking.gif"  />
 
 ###
-
+## Contact
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
@@ -98,10 +101,10 @@
 </div>
 
 ###
-
+## GitHub contributions Snake Animation
 <br clear="both">
 
-![GitHub Snake Dark](https://raw.githubusercontent.com/MohammadSaad006/MohammadSaad006/output/snake-dark.svg)
+![GitHub Snake Dark](https://github.com/MohammadSaad006/code-java/blob/output/snake.svg)
 
 
 ###
