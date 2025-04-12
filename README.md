@@ -101,7 +101,8 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/mohammadsaad006/mohammadsaad006/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/mohammadsaad006/mohammadsaad006/blob/output/snake.svg?raw=true" width="100%" />
+
 
 
 ###
