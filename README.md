@@ -101,8 +101,7 @@
 
 <br clear="both">
 
-<img src="https://github.com/mohammadsaad006/mohammadsaad006/blob/output/snake.svg?raw=true" width="100%" />
-
+![GitHub Snake Dark](https://raw.githubusercontent.com/MohammadSaad006/MohammadSaad006/output/snake-dark.svg)
 
 
 ###
